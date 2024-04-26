@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Portfolio website**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Tech Stacks**
 
