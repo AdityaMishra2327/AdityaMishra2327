@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Mishra</h1>
 <h3 align="center">A Tech Enthusiast eager to learn and contribute .</h3>
 
-- 🔭 I’m currently working on **GSSOC'24**
+- 🔭 I’m currently working in **GSSOC'24**
 
 - 🌱 I’m currently learning **React-js**
 
