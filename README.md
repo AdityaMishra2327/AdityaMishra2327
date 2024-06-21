@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GSSoC<br>👯 I’m looking to collaborate on gssoc projects<br>🌱 I’m currently learning React <br>💬 Ask me about Tech stacks<br>⚡ Fun fact :- loves to build something new
+🔭 I’m currently working on GSSoC<br>👯 I’m looking to collaborate on gssoc projects<br>🌱 I’m currently learning React <br>💬 Ask me about Tech stacks<br>⚡ Fun fact :- loves to build something which can solve real world problem 
 
 
 # 💻 Tech Stack:
