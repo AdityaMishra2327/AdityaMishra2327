@@ -1,8 +1,8 @@
-![logo](https://github.com/AdityaMishra2327/AdityaMishra2327/blob/main/Github_banner.jpg)
+![logo](https://www.chitkara.edu.in/wp-content/uploads/2019/03/AI-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Mishra</h1>
 <h3 align="center">Journey to Mastery: Crafting the Future as an AI Full Stack Developer</h3>
 
-<img align = "right" alt = "coding" src = "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align = "right" width ="400" alt = "coding" src = "https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamishra2327&label=Profile%20views&color=0e75b6&style=flat" alt="adityamishra2327" /> </p>
