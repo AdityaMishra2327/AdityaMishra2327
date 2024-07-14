@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamishra2327&label=Profile%20views&color=0e75b6&style=flat" alt="adityamishra2327" /> </p>
 
-- 🔭 I’m currently working on **MyYoutube**
+- 🔭 I’m currently working on **MERN projects**
 
-- 🌱 I’m currently learning **MERN and ML**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **Tech Stacks**
 
