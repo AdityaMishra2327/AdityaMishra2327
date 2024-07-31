@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamishra2327&label=Profile%20views&color=0e75b6&style=flat" alt="adityamishra2327" /> </p>
 
-- 🔭 I’m currently working on **MERN projects**
+- 🔭 I’m currently working on **CollageCart**
 
 - 🌱 I’m currently learning **ML**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **idadityamishraji@gmail.com**
 
-- ⚡ Fun fact **Loves to build real world stuffs**
+- ⚡ Fun fact **Loves to build real world projects **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
