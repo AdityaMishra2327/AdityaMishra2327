@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **idadityamishraji@gmail.com**
 
-- ⚡ Fun fact **Loves to build real world projects **
+- ⚡ Fun fact Loves to build real world stuffs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
